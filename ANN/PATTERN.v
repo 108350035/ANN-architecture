@@ -1,4 +1,4 @@
-`define CYCLE_TIME 28.0
+`define CYCLE_TIME 6.0
 
 `timescale 1ns/10ps
 
